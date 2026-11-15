@@ -199,7 +199,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Hunt: Showdown 1896 · Updated 2026-11-14 · Shared under the MIT License*
+*Hunt: Showdown 1896 · Updated 2026-11-15 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-14*
+*Last updated: 2026-11-15*
